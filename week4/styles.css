@@ -1,0 +1,16 @@
+#navBar {
+    position: fixed;
+    background-color: coral;
+}
+
+#navBar > a {
+    text-decoration: none;
+    color: white;
+    font-size: 17px;
+    padding: 15px 15px;
+}
+
+.blogs > img {
+    float: left;
+    padding-right: 20px;
+}
